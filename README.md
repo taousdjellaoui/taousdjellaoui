@@ -1,4 +1,4 @@
-# 👩‍💻 Taous Djellaoui
+#  Taous Djellaoui
 
 Hi! I'm Taous — a passionate developer with a love for crafting clean, user-friendly applications. From building full-stack web apps to designing native mobile experiences and interactive games, I enjoy turning ideas into real, functional code. I'm currently deepening my skills in frontend frameworks, backend APIs, and game development with Unity.
 
