@@ -37,7 +37,7 @@ Hi! I'm Taous — a passionate developer with a love for crafting clean, user-fr
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 ###  Other Skills  
-- Mobile App Development (Android / Kotlin)
+- Mobile App Development (Android / Kotlin / IOS)
 - UI/UX with Jetpack Compose
 - Game Development with Unity & C#
 - RESTful API Integration & Testing (with Postman)
