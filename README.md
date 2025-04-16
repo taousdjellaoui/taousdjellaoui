@@ -44,5 +44,4 @@ Hi! I'm Taous — a passionate developer with a love for crafting clean, user-fr
 - CoreData / SQLite / JDBC
 - Apache Server Setup & Deployment
 - Object-Oriented & Functional Programming
-- Agile & Git-based Workflow
 
