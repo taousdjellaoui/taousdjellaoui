@@ -5,7 +5,7 @@ Hi! I'm Taous — a passionate developer with a love for crafting clean, user-fr
 
 ##  Skills & Tools
 
-###  Programming Languages  
+###  Programming Languages i am familiar with 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
